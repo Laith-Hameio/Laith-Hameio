@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi There Im Laith Hameio
+🎓 Informatik-Student in Deutschland
+I am a passionate Computer Science student currently based in Germany, focusing on building a solid foundation in software development.
 
-<!--
-**Laith-Hameio/Laith-Hameio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack & Interests:
+Languages: Java, Python (or whatever you are learning)
 
-Here are some ideas to get you started:
+Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning: Data Structures, Algorithms, and German Language (A2/B1)
+
+🎯 Goal:
+I am looking for a Praktikum (Internship) or Werkstudent position for 2026 to apply my academic knowledge in a professional environment.
